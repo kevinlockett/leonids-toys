@@ -2,4 +2,4 @@
 
 Book 2 - Leonid's Bespoke Toy Shoppe
 
-In this book, we begain working with data in JavaScript. We applied our new knowledge in two small projects, then took a self-assessment to gauge how much we had learned.
+In this book, we began working with data in JavaScript. We applied our new knowledge in two small projects, then took a self-assessment to gauge how much we had learned.
